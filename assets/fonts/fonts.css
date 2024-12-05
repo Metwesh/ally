@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialBlack.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialBlackItalic.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialBold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialBoldItalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialDemibold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialDemiboldItalic.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialRegular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialRegularItalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialLight.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialLightItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialThin.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialThinItalic.otf") format("opentype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialHair.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mundial";
+  src: url("/assets/fonts/mundial/MundialHairItalic.otf") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
